@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-End Developer with a sharp eye for detail. Currently focused on<br>crafting responsive and visually appealing web apps, with a strong ability to implement modern<br>interfaces and ensure pixel-perfect results.</p>
+<p align="left">Front-End Developer with a creative background and a strong capacity to adapt to any environment, stack and role. </p>
 
 ###
 
