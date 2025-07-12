@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-End Developer with a creative background and a strong capacity to adapt to any environment, stack and role. </p>
+<p align="left">Front-End Developer with a creative background and a strong adaptability across different environments, technologies, and team roles. </p>
 
 ###
 
