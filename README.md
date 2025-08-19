@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">Front-End Developer with a creative background and a strong adaptability across different environments, technologies, and team roles. </p>
+<p align="left">Currently embarking on a new professional chapter... </p>
 
 ###
 
-<h2 align="left">What im thinking...</h2>
+<h2 align="left">On my mind...</h2>
 
 ###
 
-<p align="left">🍁 If I can imagine it, I can break it. <br>🍂 Learning Back-End <br>🎻 Refactoring my career. <br> 🐙 Ready to deploy</p>
+<p align="left">🍁 If I can imagine it, I can break it<br>🍂 Don't know where I am, but know where I'm going<br>🎻 Security doesn't exist<br> 🐙 Ready to deploy</p>
 
 
